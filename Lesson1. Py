@@ -1,0 +1,4 @@
+my_name = "Md Maruf Islam" 
+ my_age = 18 
+ print(my_name) 
+ print(my_age)
